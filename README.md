@@ -2,6 +2,7 @@
 - 🎈 Além de filmes e livros, gosto bastante de passar meu tempo de lazer com a família e amigos.
 - 🌱 Em um aprendizado constante...
 - 📲 Gostaria de me conhecer melhor? Entre em contato comigo:
+   
    E-mail: erickverissimo.dev@gmail.com ; Celular: (82) 99644-3336
 
 <!---
