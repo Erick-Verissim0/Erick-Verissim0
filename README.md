@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/erick-verissim0/"><i>Erick Veríssimo</i></a> 😃️</h1>
+  <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/erick-verissim0/"><i>Erick Veríssimo</i></a> 😃️</h1>
   <p align="center"> <b> Um apaixonado por Desenvolvimento Web em constante aprendizado! </b>
   <p align="center"> <b> Maceió/Alagoas</b>
   <p align="center">Entre em contato comigo: (82) 99644-3336 </h2>
