@@ -1,9 +1,9 @@
-<div>
-  <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/erick-verissim0/"><i>Erick Veríssimo</i></a> 😃️</h1>
-  <p align="center"> <b> Um apaixonado por Desenvolvimento Web em constante aprendizado! </b>
-  <p align="center"> <b> Maceió/Alagoas</b>
-  <p align="center">Entre em contato comigo: (82) 99644-3336 </h2>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
+  <span style="font-size: 18px; font-weight: bold">Hi, I'm Erick 👋</span>
+  <p>I’m a <b>Front-End Developer</b>. I am currently a information systems student at the Cesmac. </a></p>
 </div>
+
+<hr></hr>
 
 <div align="center">
   <a href="https://github.com/erick-verissim0">
