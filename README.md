@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
   <span style="font-size: 18px; font-weight: bold">Hi, I'm Erick 👋</span>
-  <p>I’m a <b>Front-End Developer</b>. I am currently a information systems student at the Cesmac. </a></p>
+  <p>I’m a <b>Developer</b>. I am currently a information systems student at the Cesmac. </a></p>
 </div>
 
 <hr></hr>
